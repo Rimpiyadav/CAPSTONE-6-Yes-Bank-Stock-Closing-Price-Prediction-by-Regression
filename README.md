@@ -18,4 +18,5 @@ Methods Used
 3. Regression Models- Several regression models will be implemented and evaluated, including Linear Regression, Linear Regression using Lasso Regularization, Linear Regression with Ridge Regularization, Linear Regression with Elastic Net Regularization. We will assess their performance and select the most accurate model.
 4. Evaluation- Model evaluation will be based on various regression metrics to determine the model's accuracy in predicting Yes Bank's closing prices. Common metrics include Mean Absolute Error (MAE), Root Mean Square Error (RMSE), R-squared (R2) and Adjusted R-squared (R2).
 5. Results- The results section will present the findings of the regression analysis, including the performance of different models and their predictions for Yes Bank's closing prices.
+
 Conclusion- This capstone project aims to provide a reliable predictive model for Yes Bank's closing prices, aiding investors and analysts in making informed decisions. The conclusion section will summarize the project's outcomes and potential future work.
